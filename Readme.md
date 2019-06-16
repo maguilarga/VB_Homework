@@ -18,7 +18,7 @@ Excel
 The program will execute in each worksheet and create a summary. The summary will be located uin the same worksheet starting on column J
 
 
-### And coding style tests
+### Coding comments
 
 The requirement was solved in three different ways:
 * Summ_Stock.vbs - in this case, coding techniques presented during class were used to solve the problem at hand.
